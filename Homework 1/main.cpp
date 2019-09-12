@@ -82,8 +82,8 @@ int main()
         }
         
     }
-    while ((repeat == "yes")); //part of do while syntax to continue iterations
+    while ((repeat == "yes"));
     
-    return 0; //end program
+    return 0; 
     
 }
